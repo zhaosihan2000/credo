@@ -87,7 +87,8 @@ ZKの原則は、ユーザーの資産とコントロールを保護するため
 
 デジタルの個人主権を断固として支持していきましょう。
 
-常に前へ。
+常に前へ。什么？
+amamam
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
